@@ -1,0 +1,10 @@
+body {
+  font-family: "Fira Sans", sans-serif;
+}
+.row {
+  display: block;
+}
+
+img {
+  margin: 0, auto;
+}
